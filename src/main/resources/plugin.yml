@@ -1,0 +1,5 @@
+name: TestPlugin
+main: tokyo.pmmp.test.Core
+version: 0.0.1
+api: 1.0.5 # NukkitX/Nukkit
+author: yuko_fuyutsuki
